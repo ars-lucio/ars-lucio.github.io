@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photography on DrawBlog</title>
+    <link>http://ars-lucio.github.io/categories/photography/</link>
+    <description>Recent content in photography on DrawBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Dec 2017 19:53:42 +0530</lastBuildDate>
+    
+	<atom:link href="http://ars-lucio.github.io/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>experimental geometry</title>
+      <link>http://ars-lucio.github.io/post/photography/experimental_geometry/</link>
+      <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
+      
+      <guid>http://ars-lucio.github.io/post/photography/experimental_geometry/</guid>
+      <description>&lt;p&gt;Test Topology&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jardin Botanique</title>
+      <link>http://ars-lucio.github.io/post/photography/jardin_botanique/</link>
+      <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
+      
+      <guid>http://ars-lucio.github.io/post/photography/jardin_botanique/</guid>
+      <description>&lt;p&gt;Botanic Garden UNAM&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nevado Toluca</title>
+      <link>http://ars-lucio.github.io/post/photography/nevado_toluca/</link>
+      <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
+      
+      <guid>http://ars-lucio.github.io/post/photography/nevado_toluca/</guid>
+      <description>&lt;p&gt;Cold trip to Nevado&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
