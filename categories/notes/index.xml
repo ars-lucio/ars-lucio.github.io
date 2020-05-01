@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>notes on DrawBlog</title>
-    <link>http://ars-lucio.github.io/categories/notes/</link>
+    <link>https://ars-lucio.github.io/categories/notes/</link>
     <description>Recent content in notes on DrawBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ars-lucio.github.io/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ars-lucio.github.io/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Styles Test</title>
-      <link>http://ars-lucio.github.io/post/styles_text/</link>
+      <link>https://ars-lucio.github.io/post/styles_text/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ars-lucio.github.io/post/styles_text/</guid>
+      <guid>https://ars-lucio.github.io/post/styles_text/</guid>
       <description>&lt;p&gt;This template is for test different Styles&lt;/p&gt;</description>
     </item>
     
